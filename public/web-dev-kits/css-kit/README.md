@@ -4,6 +4,5 @@ To Use Features Like:
 - Lots Of Different Fonts
 - Pre-Made Form Styling
 AND MORE!
-Add The dependabot.yml Script To Your Project.
 THIS IS NOT LICENCED OR COPYRIGHTED.
 PLEASE DO NOT MISUSE THIS.
